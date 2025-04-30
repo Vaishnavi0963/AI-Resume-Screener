@@ -1,0 +1,32 @@
+ Vaishnavi J K
+
+Email: kvaishnavi282003@gmail.com  
+Phone: 7483837822  
+Location: Kalaburagi  
+LinkedIn: linkedin.com/in/vaishnavi-kerolli
+
+---
+
+PROFILE:
+Information Science and Engineering student skilled in C, Java, Python, full-stack development, and database management. Passionate about solving real-world problems and contributing to innovative tech projects.
+
+---
+
+SKILLS:
+- Programming: C, Java, Python
+- Web: HTML, CSS
+- Database: MySQL, SQLite
+- Tools: VS Code, Eclipse, Turbo C
+- Full Stack: Java Full Stack
+
+---
+
+PROJECTS:
+1. Smart Irrigation System using IoT  
+2. Fantasy Cricket Game (Python, Tkinter, SQLite)  
+3. Virtual Reality Tourism (React.js, HTML, CSS, Three.js)
+
+---
+
+CERTIFICATIONS:
+- Java, Python, Full Stack Internship, TCS ION, CSI Bangalore.
